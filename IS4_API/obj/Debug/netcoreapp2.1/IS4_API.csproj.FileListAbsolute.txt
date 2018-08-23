@@ -1,0 +1,14 @@
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\bin\Debug\netcoreapp2.1\IS4_API.deps.json
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\bin\Debug\netcoreapp2.1\IS4_API.runtimeconfig.json
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\bin\Debug\netcoreapp2.1\IS4_API.runtimeconfig.dev.json
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\bin\Debug\netcoreapp2.1\IS4_API.dll
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\bin\Debug\netcoreapp2.1\IS4_API.pdb
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.csprojAssemblyReference.cache
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.csproj.CoreCompileInputs.cache
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.RazorAssemblyInfo.cache
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.RazorAssemblyInfo.cs
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.AssemblyInfoInputs.cache
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.AssemblyInfo.cs
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.RazorTargetAssemblyInfo.cache
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.dll
+C:\Users\USIFAT\Documents\programming_container\Angular Real Folder\IS4\IS4_API\obj\Debug\netcoreapp2.1\IS4_API.pdb
